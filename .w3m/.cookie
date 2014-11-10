@@ -1,0 +1,7 @@
+;;; .cookie  -*- mode: emacs-lisp; coding: iso-2022-7bit -*-
+;; This file is generated automatically by emacs-w3m v1.4.420.
+
+(["http://blog.csdn.net/redguardtoo/article/details/7222501/" "blog.csdn.net" nil "uuid" "6e69f750-6c45-4688-9e57-0f09b097ed19" "/" 0 "Tue, 11-Nov-2014 13:40:19 GMT" nil]
+["http://www.baidu.com/" ".baidu.com" nil "max-age" "2147483647" "/" 0 "Thu, 31-Dec-37 23:55:55 GMT" nil]
+["http://www.baidu.com/" ".baidu.com" nil "BAIDUPSID" "C28B5D990BE6EF88EE871FFA085FE184" "/" 0 "Thu, 31-Dec-37 23:55:55 GMT" nil]
+["http://www.baidu.com/" ".baidu.com" nil "BAIDUID" "C28B5D990BE6EF88EE871FFA085FE184:FG=1" "/" 0 "Thu, 31-Dec-37 23:55:55 GMT" nil])

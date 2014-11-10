@@ -1,0 +1,33 @@
+;;; .arrived  -*- mode: emacs-lisp; coding: iso-2022-7bit -*-
+;; This file is generated automatically by emacs-w3m v1.4.420.
+
+(("http://www.baidu.com/link?url=HukJk977h3XyB3gRcKe8JuxBgGHpMhrBpT3gxYw2JVa__5dFbWBUpWjM7Vvw_bCK78WGxw-cNyg9NNXaexAVeR69Rr_Iy8MJn9rb3sSGyFa"
+  nil
+  nil
+  (21600 49272 92000 0)
+  nil
+  nil)
+ ("http://www.baidu.com/s?wd=emacs&oq=emacs&ie=utf-8&rsv_idx=1&rsv_pq=81ca1acc00040829&rsv_t=a77bb9LgBkG85rIn%2Fv2gWnTWY6fX%2Bcm3IiNLZc%2B1XC4X9I7KH3Dx&nojs=1&bqid=81ca1acc00040829"
+  "emacs_百度搜索"
+  nil
+  (21600 49263 508000 0)
+  nil
+  nil)
+ ("http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=emacs&rn=&rsv_pq=a4218c4000046fa7&rsv_t=1552vBDrByizyqVppLkvW/PkohYYEis3M3zxgo1fwpfFCQX4IQli"
+  "emacs_百度搜索"
+  nil
+  (21600 49249 143000 0)
+  nil
+  nil)
+ ("http://www.baidu.com"
+  "百度一下，你就知道"
+  nil
+  (21600 49201 330000 0)
+  nil
+  nil)
+ ("http://www.baidu.com/baidu.html?from=noscript"
+  "百度一下，你就知道"
+  (21186 42733)
+  (21600 49200 814000 0)
+  nil
+  nil))
